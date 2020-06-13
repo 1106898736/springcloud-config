@@ -1,2 +1,2 @@
-config;
+config:
     info: "master barnche,springcloud-config/config.prod.yml version=1"
